@@ -1692,7 +1692,7 @@ div[class*=shape] {
   display: block;
   padding: 5rem 20rem; }
   .feedback-single .box-slider-avt {
-    display: flex;
+    display: flex !important;
     background-color: #fff;
     padding: 3rem;
     border-radius: 5px;
