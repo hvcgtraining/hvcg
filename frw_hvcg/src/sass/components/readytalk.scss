@@ -1,7 +1,7 @@
 .readytalk{
     .readytalk__main{
         position: relative;
-        margin-bottom: 20rem;
+        // margin-bottom: 20rem;
         .readytalk__header{
             text-align: center;
             background: linear-gradient(135deg, #23bdb8 0%, #43e794 100%);
@@ -39,10 +39,8 @@
         }
         .partner-inner{
             background: white;
-            position: absolute;
-            top: 75%;
-            // right: 10%;
-            // left: 10%;
+            position: relative;
+            margin-top: -80px;
             margin-left: 10%;
             margin-right: 10%; 
             z-index: 2;
@@ -63,10 +61,11 @@
                         a{
                             display: block;
                             margin-top: 2.5rem;
-                            // img{
-                            //     width: 100%;
-                            //     // height: auto;
-                            // }
+                            img{
+                                filter: gray; /* IE6-9 */
+                                -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+                                filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+                            }
                         }
                     }
                     .partner__shadow{
@@ -96,7 +95,7 @@
 @media only screen and (max-width: 990px){
     .readytalk{
         .readytalk__main{
-            margin-bottom: 30rem;
+            // margin-bottom: 30rem;
             .partner-inner{
                 .partner__block{
                     width: 25%;
@@ -108,7 +107,7 @@
 @media only screen and (max-width: 767px){
     .readytalk{
         .readytalk__main{
-            margin-bottom: 60rem;
+            // margin-bottom: 60rem;
             .readytalk__header{
                 .container{
                     display: block;

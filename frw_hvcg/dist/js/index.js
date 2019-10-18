@@ -41,7 +41,7 @@ $(document).ready(function () {
 
 $('.slide-slick').owlCarousel({
   loop: true,
-  margin: 20,
+  margin: 30,
   nav: false,
   dots: true,
   responsive: {

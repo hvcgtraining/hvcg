@@ -19,7 +19,10 @@ const jsTask = function () {
 
 const pugTask = function () {
     return src('frw_hvcg/src/view/**/*.pug')
-    .pipe(pug())
+    .pipe(pug(
+        { pretty: true} 
+    ))
+
     .pipe(dest('frw_hvcg/dist/html'))
 };
 

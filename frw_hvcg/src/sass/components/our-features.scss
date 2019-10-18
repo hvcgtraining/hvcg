@@ -8,6 +8,7 @@
         .wrapper-our-features{
             .wrapper-box-our-features{
                 margin-bottom: 30px;
+                margin-top: 0;
                 .wrapper-inner{
                     padding: 0 1.5rem;
                     height: 100%;
@@ -15,14 +16,14 @@
                         height: 100%;
                         .cs-box-our-features{
                             border: none;
-                            box-shadow: none;
+                            // box-shadow: none;
                             position: relative;
                             background: #ffffff;
                             padding: 3rem 2rem 3rem 9.5rem;
                             height: 100%;
                             border-radius: 5px;
-                            -webkit-transition: 0.5s;
-                            transition: 0.5s;
+                            -webkit-transition: all .5s ease;
+                            transition: all .5s ease;
                             h3{
                                 color: #0e314c;
                                 font-weight: 500;

@@ -1,7 +1,6 @@
 .box-bg-df {
   position: relative;
   border-radius: 0.5rem;
-  box-shadow: 0 0 1rem rgba(72, 69, 224, 0.1);
   transition: all .5s ease;
   font-size: 14px; }
   .box-bg-df:before {
@@ -18,7 +17,7 @@
     -webkit-transition: 0.5s;
     transition: 0.5s; }
   .box-bg-df:hover {
-    transform: translateY(-9px);
+    transform: translateY(-5px);
     border-color: transparent;
     -webkit-transition: 0.5s;
     transition: 0.5s; }
@@ -32,9 +31,9 @@
   transition: all .5s ease;
   border: 1px dashed #cdf1d8; }
   .box-bg-trans:hover {
-    transform: translateY(-9px);
+    transform: translateY(-10px);
     border-color: transparent;
-    box-shadow: 0 0 3rem rgba(72, 69, 224, 0.1);
+    box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
     -webkit-transition: 0.5s;
     transition: 0.5s; }
 

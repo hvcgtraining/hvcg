@@ -495,8 +495,7 @@ div[class*=shape] {
   .hd-hover-content .box-content {
     border-radius: 3px;
     box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
-    margin: 1rem;
-    padding: 1rem;
+    padding: 2rem;
     height: 100%;
     display: flex;
     align-items: center; }
@@ -508,7 +507,8 @@ div[class*=shape] {
       color: #666;
       font-size: 1.6rem;
       font-weight: 500;
-      margin-left: 1rem; }
+      margin-left: 1rem;
+      transition: all .5s ease; }
     .hd-hover-content .box-content:hover i {
       color: #fff; }
     .hd-hover-content .box-content:hover span {
@@ -516,7 +516,10 @@ div[class*=shape] {
 
 @media only screen and (max-width: 767px) {
   .shape1, .shape2, .shape3, .shape4, .shape5 {
-    display: none; } }
+    display: none; }
+  .hd-hover-content {
+    margin-left: 0;
+    margin-right: 0; } }
 
 .mb-3 {
-  margin-bottom: 1.5rem; }
+  margin-bottom: 2rem; }

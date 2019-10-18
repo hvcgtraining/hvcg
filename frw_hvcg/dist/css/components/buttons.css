@@ -100,7 +100,7 @@
     background: #44ce6f;
     z-index: -1; }
   .btn-df.btn-hv-green:hover:before, .btn-df.btn-hv-green:hover:after {
-    width: 50%; }
+    width: 100%; }
 
 .btn-df.btn-hv-violet {
   position: relative; }
@@ -123,7 +123,7 @@
     background: #c679e3;
     z-index: -1; }
   .btn-df.btn-hv-violet:hover:before, .btn-df.btn-hv-violet:hover:after {
-    width: 50%; }
+    width: 100%; }
 
 .btn-df.btn-hv-pink {
   position: relative; }
@@ -146,7 +146,7 @@
     background: #e36cd9;
     z-index: -1; }
   .btn-df.btn-hv-pink:hover:before, .btn-df.btn-hv-pink:hover:after {
-    width: 50%; }
+    width: 100%; }
 
 .btn-df.btn-hv-brpink {
   position: relative; }
@@ -169,4 +169,4 @@
     background: #f48665;
     z-index: -1; }
   .btn-df.btn-hv-brpink:hover:before, .btn-df.btn-hv-brpink:hover:after {
-    width: 50%; }
+    width: 100%; }
