@@ -495,13 +495,12 @@ div[class*=shape] {
   .hd-hover-content .box-content {
     border-radius: 3px;
     box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
-    padding: 2rem;
+    padding: 2rem 1.4rem;
     height: 100%;
-    display: flex;
-    align-items: center; }
+    display: flex; }
     .hd-hover-content .box-content i {
       color: #44ce6f;
-      font-size: 1.6rem;
+      font-size: 1.8rem;
       margin-left: 1rem; }
     .hd-hover-content .box-content span {
       color: #666;

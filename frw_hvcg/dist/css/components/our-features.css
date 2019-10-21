@@ -41,9 +41,9 @@
             font-size: 2rem; }
             .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fas.fa-cog {
               color: #44ce6f; }
-            .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fas.fa-th-large, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .far.fa-question-circle {
+            .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fas.fa-th-large, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .far.fa-question-circle, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fa-piggy-bank, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fa-project-diagram {
               color: #c679e3; }
-            .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fas.fa-mouse-pointer, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .far.fa-bell {
+            .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fas.fa-mouse-pointer, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .far.fa-bell, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fa-exchange-alt, .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .icon .fa-book-reader {
               color: #eb6b3d; }
           .our-features .container .wrapper-our-features .wrapper-box-our-features .wrapper-inner .box-our-features .cs-box-our-features .bg-edc3fc {
             background: #edc3fc; }
